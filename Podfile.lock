@@ -1,0 +1,24 @@
+PODS:
+  - JSONModel (1.7.0)
+  - SwiftHTTP (3.0.1)
+  - youtube-ios-player-helper (0.1.6)
+
+DEPENDENCIES:
+  - JSONModel
+  - SwiftHTTP
+  - youtube-ios-player-helper (~> 0.1.4)
+
+SPEC REPOS:
+  https://github.com/CocoaPods/Specs.git:
+    - JSONModel
+    - SwiftHTTP
+    - youtube-ios-player-helper
+
+SPEC CHECKSUMS:
+  JSONModel: 840bc0fcffb24b8454d2c026bf26fea454b8e98d
+  SwiftHTTP: e94f1aa8cde58637dcc0100f6349de31a3337fde
+  youtube-ios-player-helper: 21ab92db027c7ff86cb17a3843a3f6eafc8158d2
+
+PODFILE CHECKSUM: 63200f7cf80dcfaa5c8b32ac6f43b1bdf5014c2b
+
+COCOAPODS: 1.5.0
